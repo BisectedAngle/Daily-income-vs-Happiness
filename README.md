@@ -1,5 +1,6 @@
-[master_sheet.xlsx] contains data downloaded from GAPMINDER:
-
+[master_sheet.xlsx] contains data downloaded from GAPMINDER (https://www.gapminder.org/data/):
+Average daily income, $/person/day, inflation- & price adjusted
+Happiness score (WHR)
 
 View [full trend.ipynb] to see the main script I created for plotting
 There are also the pngs of the produced graphs in this repo
