@@ -1,4 +1,5 @@
 [master_sheet.xlsx] contains data downloaded from GAPMINDER (https://www.gapminder.org/data/):
+
 Average daily income, $/person/day, inflation- & price adjusted
 Happiness score (WHR)
 
