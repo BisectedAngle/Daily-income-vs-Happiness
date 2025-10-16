@@ -7,7 +7,11 @@ Happiness score (WHR)
 
 View [full trend.ipynb] to see the main script I created for plotting
 ==
-There are also the pngs of the produced graphs in this repo
+There are also the PNGs of the produced graphs in this repo
+
+However, the images in this repo do not include units for the axes
+
+My report contains the necessary units for the axes
 
 
 
